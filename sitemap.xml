@@ -22,27 +22,24 @@
   <lastmod>2025-06-25T02:53:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://hanzhang.github.io/resources.html</loc>
-  <lastmod>2025-06-25T02:53:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+#<url>
+#  <loc>https://hanzhang.github.io/resources.html</loc>
+#  <lastmod>2025-06-25T02:53:25+00:00</lastmod>
+#  <priority>0.80</priority>
+#</url>
 <url>
   <loc>https://hanzhang.github.io/cv.html</loc>
   <lastmod>2025-06-25T02:53:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hanzhang.github.io/funfacts.html</loc>
+  <loc>https://hanzhang.github.io/Me.html</loc>
   <lastmod>2025-06-25T02:53:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://hanzhang.github.io/CV.pdf</loc>
-  <lastmod>2025-06-25T02:53:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+
 
 
 
 </urlset>
+
